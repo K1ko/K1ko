@@ -1,4 +1,4 @@
-[![MasterHead](github-header-image.png)]
+![MasterHead](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kristián Červenka</h1>
 <h3 align="center">A passionate frontend developer from Slovakia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
