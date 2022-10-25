@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kikocervenka1" target="blank"><img src="https://img.shields.io/twitter/follow/kikocervenka1?logo=twitter&style=for-the-badge" alt="kikocervenka1" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Data Structures**
 
 - 🌱 I’m currently learning **Framework,Data Science, Web Development**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kristian.cervenka@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Just a guy drinking coffe and writing code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
