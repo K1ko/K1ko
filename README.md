@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kristian.cervenka@gmail.com**
 
-- ⚡ Fun fact **Just a guy drinking coffe and writing code**
+- ⚡ Fun fact **Young boy chasin' dreams ⭐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
