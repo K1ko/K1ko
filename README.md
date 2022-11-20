@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Framework,Data Science, Web Development**
 
-- 👨‍💻 All of my projects are available at [work in progress…](work in progress…)
+- 👨‍💻 All of my projects are available at https://k1ko.github.io/portfolio.github.io/ [still work in progress...]
 
 - 💬 Ask me about **React,Binary Trees,C,Python**
 
