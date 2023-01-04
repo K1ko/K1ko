@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kristián Červenka</h1>
 <h3 align="center">A passionate frontend developer from Slovakia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
-
+https://wakatime.com/badge/user/93c405d2-d123-4606-b157-f7911ac3fda4.svg
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ko&label=Profile%20views&color=0e75b6&style=flat" alt="k1ko" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1ko" alt="k1ko" /></a> </p>
