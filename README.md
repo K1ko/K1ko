@@ -38,7 +38,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DevKristianko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevKristianko" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ko&show_icons=true&locale=en&layout=compact" alt="k1ko" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ko&show_icons=true&locale=en&layout=compact" alt="k1ko" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ko&show_icons=true&locale=en" alt="k1ko" /></p>
 
