@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Data Structures**
 
-- 🌱 I’m currently learning **Framework,Data Science, Web Development**
+- 🌱 I’m currently learning **Framework,Data Science, Web Development,Ruby on Rails,AI**
 
 - 👨‍💻 All of my projects are available at https://k1ko.github.io/portfolio.github.io/ [still work in progress...]
 
