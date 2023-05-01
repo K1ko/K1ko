@@ -38,8 +38,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DevKristianko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevKristianko" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ko&show_icons=true&locale=en&layout=compact" alt="k1ko" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ko&show_icons=true&locale=en&layout=compact&theme=dark" height="400" width="400" alt="k1ko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ko&show_icons=true&locale=en" alt="k1ko" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ko&show_icons=true&locale=en&theme=dark" alt="k1ko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ko&" alt="k1ko" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ko&theme=dark" alt="k1ko" /></p>
+
